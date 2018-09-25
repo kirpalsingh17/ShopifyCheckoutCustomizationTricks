@@ -26,4 +26,5 @@ Optional objects
 9. {{ alternative_payment_methods }}
 10. {{ content_for_footer }}
 11. {{ tracking_code }}
+
 You can find more descriptive details from shopify.com
