@@ -1,3 +1,2 @@
 # ShopifyCheckoutCustomizationTricks
 
-test
