@@ -16,6 +16,7 @@ Required objects
   
 Optional objects
 1. {{ checkout_html_classes }}
+
 2 .{{ checkout_stylesheets }}
 3. {{ checkout_scripts }}
 4. {{ checkout }}
