@@ -23,12 +23,7 @@ Optional objects
 6. {{ order_summary_toggle }}
 7. {{ content_for_order_summary }}
 8. {{ breadcrumb }}
-
 9. {{ alternative_payment_methods }}
-
 10.{{ content_for_footer }}
-
 11.{{ tracking_code }}
-
-
 You can find more descriptive details from shopify.com
