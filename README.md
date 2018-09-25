@@ -28,3 +28,13 @@ Optional objects
 11. {{ tracking_code }}
 
 You can find more descriptive details from shopify.com
+
+Apart from Shopify checkout page(checkout.liquid) file, You can edit some design, colors, buttons and text from shopify checkout customization section. Here mentioned below
+1. Upload a background image for the banner
+2. Add a logo to the checkout page
+3. Add a background image or color to the main content area
+4. Change the color of the form fields
+5. Add a background image or color to the order summary
+6. Change or remove an image from the checkout page
+7. Change the font on the checkout page
+8. Change button and accent colors on the checkout page
