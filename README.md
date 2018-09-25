@@ -13,3 +13,18 @@ In default case of Shopify checkout page(checkout.liquid), there are many object
 Required objects
 1. {{ content_for_header }} variable  must be placed between the opening and closing <head> tag
 2. {{ content_for_layout }} variable must be placed between the opening and closing <body> tag. It dynamically outputs the form fields and content for each step of the checkout process.
+  
+Optional objects
+1. {{ checkout_html_classes }}
+2 .{{ checkout_stylesheets }}
+3. {{ checkout_scripts }}
+4. {{ checkout }}
+5. {{ content_for_logo }}
+6. {{ order_summary_toggle }}
+7. {{ content_for_order_summary }}
+8. {{ breadcrumb }}
+9. {{ alternative_payment_methods }}
+10.{{ content_for_footer }}
+11.{{ tracking_code }}
+
+You can find more descriptive details from shopify.com
