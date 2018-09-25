@@ -16,7 +16,6 @@ Required objects
   
 Optional objects
 1. {{ checkout_html_classes }}
-
 2 .{{ checkout_stylesheets }}
 3. {{ checkout_scripts }}
 4. {{ checkout }}
@@ -24,8 +23,12 @@ Optional objects
 6. {{ order_summary_toggle }}
 7. {{ content_for_order_summary }}
 8. {{ breadcrumb }}
+
 9. {{ alternative_payment_methods }}
+
 10.{{ content_for_footer }}
+
 11.{{ tracking_code }}
+
 
 You can find more descriptive details from shopify.com
