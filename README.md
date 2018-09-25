@@ -38,3 +38,11 @@ Apart from Shopify checkout page(checkout.liquid) file, You can edit some design
 6. Change or remove an image from the checkout page
 7. Change the font on the checkout page
 8. Change button and accent colors on the checkout page
+
+There are some more advanced technique, we can follow to customize shopify checkout page look & feel fully. We can create some awesome design in checkout page. Here one refrence "<b>johnjacobseyewear.com</b>"
+
+You can create css file and include it like that <pre>{{ 'carrie-checkout.css' | asset_url | stylesheet_tag }}</pre>
+
+You can create js file and include it like that <pre>{{ 'carrie-checkout.js' | asset_url | script_tag }}  </pre>
+
+<img src="https://image.ibb.co/iNitmp/Github_shopify_checkout_customization.png">
